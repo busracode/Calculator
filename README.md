@@ -14,3 +14,7 @@ This is a simple calculator built with HTML, CSS and JavaScript. It can perform 
 🔺How to handle user inputs and events<br>
 🔺Styling interactive elements with CSS<br>
 🔺Structuring a small web project with HTML, CSS and JS<br>
+---
+## 📸 Calculator Screenshot
+<img src="image/screenshot.png"
+alt="Calculator Screenshot" width="400">
